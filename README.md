@@ -31,7 +31,7 @@
 ---
 
 ## 📫 Connect with Me
-- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/rashmi-6a15aa230/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/rashmi-6a15aa230/)  
 - 📊 [GitHub](https://github.com/Rash1105)  
 
 ---
